@@ -18,11 +18,11 @@ margin-new{
 .fontview{
     font-size: 15px !important;
 }
-.card-design{
+/* .card-design{
     border-left-style: solid ;
     border-left-color: #5b8eee;
-    /* width: 100% !important; */
+    
+} */
+.item-md [item-right] {
+    margin: 0px !important;
 }
-
-   
-        

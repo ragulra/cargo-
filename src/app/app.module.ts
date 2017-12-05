@@ -12,7 +12,8 @@ import { TriplistComponent } from './triplist/triplist.component';
 import { LoginComponent } from './login/login.component';
 import {MaterialModule} from './material.module';
 import { IonicApp, IonicModule } from 'ionic-angular';
-import { TabComponent } from './tab/tab.component';
+import { TabsComponent } from './tabs/tabs.component';
+
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import { TabComponent } from './tab/tab.component';
     AppComponent,
     TriplistComponent,
     LoginComponent,
-    TabComponent
+    TabsComponent,
+
   ],
   imports: [
     BrowserModule,
